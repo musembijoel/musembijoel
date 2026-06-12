@@ -2,7 +2,7 @@
 
 ## About Me
 - I'm currently learning computer programming.
-- I'm interested in Applications and websites development, Artificial intelligence and machine learning.
+- I'm interested in Applications and websites development.
 - I'm looking to collaborate on developing solutions to our everyday problems and moving Africa from consumption to production of technological products and services. 
 
 ## Skills I'm Building
