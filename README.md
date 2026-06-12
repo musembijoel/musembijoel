@@ -1,7 +1,7 @@
 # Hi, I'm Joel Musembi Samwel 
 
 ## About Me
-- I'm currently a Sales and Marketing intern at Kenya Medical Supplies Authority 
+- I'm currently learning computer programming.
 - I'm interested in Applications and websites development, Artificial intelligence and machine learning.
 - I'm looking to collaborate on developing solutions to our everyday problems and moving Africa from consumption to production of technological products and services. 
 
