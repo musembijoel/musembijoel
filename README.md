@@ -2,8 +2,8 @@
 
 ## About Me
 - I'm currently learning computer programming.
-- I'm interested in Applications and websites development.
-- I'm looking to collaborate on developing solutions to our everyday problems and moving Africa from consumption to production of technological products and services. 
+- I'm interested in web development.
+- I'm looking to collaborate on beginner friendly projects.
 
 ## Skills I'm Building
 - Git and GitHub
@@ -12,8 +12,8 @@
 - CSS
 
 ## Current Projects
-- meadoors a house hunting platform.
+- learning web development 
 
 ## How to Reach Me
 - Email: joemusa084@gmail.com
- LinkedIn:https://www.linkedin.com/in/joelmusembi57746?utm_source=share_via&utm_content=profile&utm_medium=member_android 
+ 
