@@ -2,7 +2,7 @@
 
 ## About Me
 - I'm currently working as an intern at Kenya Medical Supplies Authority 
-- I'm interested in Applications and websites development, Artificial intelligence and machine learning.[your interests, e.g., "AI, web development, and data science"].
+- I'm interested in Applications and websites development, Artificial intelligence and machine learning.
 - I'm looking to collaborate on developing solutions to our everyday problems and moving Africa from consumption to production of technological products and services. 
 
 ## Skills I'm Building
