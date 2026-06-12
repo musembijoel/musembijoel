@@ -8,8 +8,8 @@
 ## Skills I'm Building
 - Git and GitHub
 - JavaScript 
--HTML
--CSS
+- HTML
+- CSS
 
 ## Current Projects
 - meadoors a house hunting platform.
