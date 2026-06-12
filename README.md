@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Joel Musembi Samwel 
 
-<!--
-**musembijoel/musembijoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently working as an intern at Kenya Medical Supplies Authority 
+- I'm interested in Applications and websites development, Artificial intelligence and machine learning.[your interests, e.g., "AI, web development, and data science"].
+- I'm looking to collaborate on developing solutions to our everyday problems and moving Africa from consumption to production of technological products and services. 
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- JavaScript 
+-HTML
+-CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- meadoors a house hunting platform.
+
+## How to Reach Me
+- Email: joemusa084@gmail.com
+- LinkedIn:https://www.linkedin.com/in/joelmusembi57746?utm_source=share_via&utm_content=profile&utm_medium=member_android 
