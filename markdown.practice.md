@@ -42,3 +42,8 @@ My favorite bible verses are;
 - John 3:16
 
 >Strive to be the change I want to see
+
+| Sport.    | Favorite team| Favorite player|
+|-----------|--------------|-----------------|
+| Football. | Excellent.   | Active          |
+| Basketball| Average.     | Inactive.       |
