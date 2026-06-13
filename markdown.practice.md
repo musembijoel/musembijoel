@@ -28,5 +28,5 @@ Learning goals
 
 ''' python
 print("Hello, WeCan Academy!")
-'''
+
 
