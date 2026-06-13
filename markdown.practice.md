@@ -43,7 +43,7 @@ My favorite bible verses are;
 
 >Strive to be the change I want to see
 
-| Sport.    | Favorite team| Favorite player|
-|-----------|--------------|-----------------|
-| Football. | Excellent.   | Active          |
-| Basketball| Average.     | Inactive.       |
+| Sport.    | Favorite team.   | Favorite player. |
+|-----------|------------------|------------------|
+| Football. | Man United       | Cristiano Ronaldo|      
+| Basketball| San Antonio Spurs| Victor Wembenyama|       
