@@ -34,5 +34,5 @@ print("Love, Kenya!")
 
 ### About Me
 
-**Am a believer** *the faith moves mountain type*
+**Am a believer** *,the faith moves mountain type.*
 
