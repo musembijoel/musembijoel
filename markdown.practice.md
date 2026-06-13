@@ -32,3 +32,6 @@ print("Love, Kenya!")
 
 >A life not lived for others is not a life
 
+###About Me
+**Am a believer** *the faith moves mountain type*
+
