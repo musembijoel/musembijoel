@@ -1,7 +1,7 @@
 ## My learning goals
 ### This Semester
 
-**A bold** *Italian* 'tall humongous man'
+**Create** *an interactive* 'responsive website'
 
 [Link text] (https://musembijoel.com)
 
