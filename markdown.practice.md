@@ -26,3 +26,7 @@ Learning goals
 - [ ] Learn terminal commands and version workflows.
 - [ ] Track code changes, collaborate of software projects and build interactive and responsive websites.
 
+'''python
+print(Hello, WeCan Academy!)
+'''
+
