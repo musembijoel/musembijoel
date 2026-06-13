@@ -43,7 +43,7 @@ My favorite bible verses are;
 
 >Strive to be the change I want to see
 
-| Sport.    | Favorite team.   | Goated player. |
+| Sport.    | Favorite team.   | Goated player.   |
 |-----------|------------------|------------------|
 | Football. | Man United       | Cristiano Ronaldo|      
-| Basketball| San Antonio Spurs| Victor Wembenyama|       
+| Basketball| San Antonio Spurs| Magic Johnson.   |       
