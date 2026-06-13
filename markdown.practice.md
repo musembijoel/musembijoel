@@ -21,7 +21,8 @@ Steps to make a commit
 | VScode|Write and edit code.       |VScode.com|
 
 Learning goals
-1. Learn to structure webpages with forms, semantic tags and multimedia.
-2. Learn terminal commands and version workflows.
-3. Track code changes, collaborate of software projects and build interactive and responsive websites.
+- [×] GitHub basics
+- [] Learn to structure webpages with forms, semantic tags and multimedia.
+- [] Learn terminal commands and version workflows.
+- [] Track code changes, collaborate of software projects and build interactive and responsive websites.
 
