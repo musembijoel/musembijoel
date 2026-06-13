@@ -41,3 +41,4 @@ My favorite bible verses are
 - Jeremiah 27:7
 - John 2:16
 
+>Strive to be the change I want to see
