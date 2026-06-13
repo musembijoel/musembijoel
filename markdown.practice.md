@@ -21,7 +21,7 @@ Steps to make a commit
 | VScode|Write and edit code.       |VScode.com|
 
 Learning goals
-- [×]GitHub basics
+- [ ] Understand how to manage application state and pass data between components.
 - [ ] Learn to structure webpages with forms, semantic tags and multimedia.
 - [ ] Learn terminal commands and version workflows.
 - [ ] Track code changes, collaborate of software projects and build interactive and responsive websites.
