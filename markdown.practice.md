@@ -7,6 +7,6 @@
 
 - JavaScript 
  -Css
-- HTML
+  - HTML
 
-Steps to make a commitvv
+Steps to make a commit
