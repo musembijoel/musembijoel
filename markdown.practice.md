@@ -36,9 +36,9 @@ print("Love, Kenya!")
 
 **Am a believer,** *the faith moves mountain type.*
 
-My favorite bible verses are
+My favorite bible verses are;
 - John 10:10
-- Jeremiah 27:7
-- John 2:16
+- 2 Timothy 4:7
+- John 3:16
 
 >Strive to be the change I want to see
