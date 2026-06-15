@@ -26,10 +26,9 @@ Learning goals
 - [ ] Learn terminal commands and version workflows.
 - [ ] Track code changes, collaborate of software projects and build interactive and responsive websites.
 
-' ' ' python
-print("Love, Kenya!")
-' ' '
-
+```javascript
+const message = "Hello, World!"; console.log(message);
+```
 >A life not lived for others is not a life
 
 ### About Me
