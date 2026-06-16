@@ -12,7 +12,7 @@
 Steps to make a commit
 
 1. Open the file you want to make changes to.
-2. Click commit changes on the bottom right of your phone screen.
+2. Click commit changes, highlighted in green.
 3. Write a brief summary then click commit changes.
 
 | Tool  | Purpose.                  | Link.    |
