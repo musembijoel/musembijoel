@@ -3,7 +3,7 @@
 ## About Me
 - I'm currently learning computer programming.
 - I'm interested in web development.
-- I'm looking to collaborate on beginner friendly projects.
+- I'm looking forward to collaborating on beginner friendly projects.
 
 ## Skills I'm Building
 - Git and GitHub
