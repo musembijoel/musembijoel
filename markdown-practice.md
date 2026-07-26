@@ -3,7 +3,7 @@
 
 **Create** *an interactive* 'responsive website'
 
-[Link text] (https://github.com/musembijoel)
+(https://github.com/musembijoel)
 
 - JavaScript 
  -Css
