@@ -1,18 +1,17 @@
 # Hi, I'm Joel Musembi Samwel 
 
 ## About Me
-- I'm currently learning computer programming.
-- I'm interested in web development.
-- I'm looking forward to collaborating on beginner friendly projects.
+- Am a web developer turning offering solutions to day to day problems with tech.
 
-## Skills I'm Building
+## Skills 
 - Git and GitHub
 - JavaScript 
 - HTML
 - CSS
+- React
 
 ## Current Projects
-- learning web development 
+- Weather app
 
 ## How to Reach Me
 - Email: joemusa084@gmail.com
