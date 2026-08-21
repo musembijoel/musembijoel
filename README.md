@@ -1,7 +1,7 @@
 # Hi, I'm Joel Musembi Samwel 
 
 ## About Me
-- Am a web developer turning offering solutions to day to day problems with tech.
+- Am a web developer offering solutions to day to day problems with tech.
 
 ## Skills 
 - Git and GitHub
