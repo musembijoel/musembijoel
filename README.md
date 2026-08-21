@@ -1,7 +1,7 @@
 # Hi, I'm Joel Musembi Samwel 
 
 ## About Me
-- Am a web developer offering solutions to day to day problems with tech.
+- Am a web developer and a digital marketer an arrangement that increases the chances of a website outperforming its projections. Reach out for business.
 
 ## Skills 
 - Git and GitHub
